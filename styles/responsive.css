@@ -84,12 +84,14 @@
   }
 
   .hero-right img {
-    width: 70%;
+    width: 60%;
   }
 
   .hero-left {
     text-align: center;
     padding-bottom: 5rem;
+    margin-top: 15px;
+    /* margin-bottom: 5px; */
   }
 
   .hero-left .pre-title {
