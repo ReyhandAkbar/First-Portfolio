@@ -128,8 +128,11 @@ a {
     font-size: 2rem;
 }
 
-.logo a {
-    color: var(--primaryTextColor);
+.logo img {
+  height: 40px; /* atur tinggi logo */
+  width: auto;  /* agar proporsi tetap */
+  cursor: pointer;
+    /* color: var(--primaryTextColor); */
 }
 
 nav ul li {
